@@ -1,0 +1,8 @@
+.btn{background-color: gray;}
+body{
+    background-color: lightgoldenrodyellow;
+}
+#note-textarea{
+    margin: auto;
+    width: 60%;
+}
